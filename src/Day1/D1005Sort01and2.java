@@ -8,12 +8,12 @@ public class D1005Sort01and2 {
         sort012(arr);
     }
 
+    // Sort an array of 0s, 1s and 2s | Dutch National Flag problem
     public static void sort012(int[] arr)
     {
-        //Write your code here
         // Optimal | TC - O(N)
         // {0 ... low - 1}, {low ... mid - 1}, {mid ... high}, {high + 1 ... n - 1}
-        //  0 0 0 0 0 0       1 1 1 1 1 1         { 0/1/2 }       2 2 2 2 2 2 2 2
+        //  0 0 0 0 0 0       1 1 1 1 1 1      {    0/1/2   }    2 2 2 2 2 2 2 2
         int n = arr.length;
         int low = 0;
         int mid = 0;
