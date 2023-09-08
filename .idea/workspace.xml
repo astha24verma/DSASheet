@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c08394f-f1ee-4d32-93db-a6039fdf4212" name="Changes" comment="Add File">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/D1005Sort01and2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day1/SetMatrixZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1/SetMatrixZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/SetMatrixZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1/D1001SetMatrixZeros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +53,22 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="SetMatrixZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1.SetMatrixZeros" />
+  <component name="RunManager" selected="Application.D1005Sort01and2">
+    <configuration name="D1001SetMatrixZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day1.D1001SetMatrixZeros" />
+      <module name="DSASheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D1005Sort01and2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day1.D1005Sort01and2" />
       <module name="DSASheet" />
       <extension name="coverage">
         <pattern>
@@ -70,7 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SetMatrixZeros" />
+        <item itemvalue="Application.D1005Sort01and2" />
+        <item itemvalue="Application.D1001SetMatrixZeros" />
       </list>
     </recent_temporary>
   </component>
@@ -85,6 +98,7 @@
       <workItem from="1693936636944" duration="1223000" />
       <workItem from="1693937901797" duration="18000" />
       <workItem from="1694112057359" duration="622000" />
+      <workItem from="1694159163920" duration="255000" />
     </task>
     <task id="LOCAL-00001" summary="Add File">
       <option name="closed" value="true" />

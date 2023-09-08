@@ -2,7 +2,7 @@ package Day1;
 
 import java.util.Arrays;
 
-public class SetMatrixZeros {
+public class D1001SetMatrixZeros {
     public static void main(String[] args) {
 
         int[][] matrix = {{0,1,2,0},{3,4,5,2},{1,3,1,5}};
