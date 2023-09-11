@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c08394f-f1ee-4d32-93db-a6039fdf4212" name="Changes" comment="Add File D1005Sort01and2">
-      <change afterPath="$PROJECT_DIR$/src/Day1/D1002PascalsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1/D1003NextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1/D1004KadanesAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1/D1006BestTimeToBuyAndSellStock.java" afterDir="false" />
+    <list default="true" id="3c08394f-f1ee-4d32-93db-a6039fdf4212" name="Changes" comment="Add Files to Day1">
+      <change afterPath="$PROJECT_DIR$/src/Day2/D2001RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/D2003MergeTwoSortedArraysWithoutExtraSpace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day1/D1005Sort01and2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1/D1005Sort01and2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/D1003NextPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1/D1003NextPermutation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +56,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.D1002PascalsTriangle">
-    <configuration name="D1001SetMatrixZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1.D1001SetMatrixZeros" />
+  <component name="RunManager" selected="Application.D2001RotateMatrix">
+    <configuration name="D1002PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day1.D1002PascalsTriangle" />
       <module name="DSASheet" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D1002PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1.D1002PascalsTriangle" />
+    <configuration name="D1003NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day1.D1003NextPermutation" />
       <module name="DSASheet" />
       <extension name="coverage">
         <pattern>
@@ -98,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D1005Sort01and2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1.D1005Sort01and2" />
+    <configuration name="D2001RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.D2001RotateMatrix" />
       <module name="DSASheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1.*" />
+          <option name="PATTERN" value="Day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D1006BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1.D1006BestTimeToBuyAndSellStock" />
+    <configuration name="D2003MergeTwoSortedArraysWithoutExtraSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.D2003MergeTwoSortedArraysWithoutExtraSpace" />
       <module name="DSASheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1.*" />
+          <option name="PATTERN" value="Day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.D2001RotateMatrix" />
+        <item itemvalue="Application.D2003MergeTwoSortedArraysWithoutExtraSpace" />
+        <item itemvalue="Application.D1003NextPermutation" />
         <item itemvalue="Application.D1002PascalsTriangle" />
         <item itemvalue="Application.D1004KadanesAlgorithm" />
-        <item itemvalue="Application.D1006BestTimeToBuyAndSellStock" />
-        <item itemvalue="Application.D1005Sort01and2" />
-        <item itemvalue="Application.D1001SetMatrixZeros" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +145,11 @@
       <workItem from="1694112057359" duration="622000" />
       <workItem from="1694159163920" duration="4494000" />
       <workItem from="1694180556924" duration="911000" />
-      <workItem from="1694201047130" duration="2848000" />
+      <workItem from="1694201047130" duration="3039000" />
+      <workItem from="1694341201378" duration="2672000" />
+      <workItem from="1694345787866" duration="25000" />
+      <workItem from="1694380138215" duration="361000" />
+      <workItem from="1694453814969" duration="2999000" />
     </task>
     <task id="LOCAL-00001" summary="Add File">
       <option name="closed" value="true" />
@@ -165,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694159449535</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Files to Day1">
+      <option name="closed" value="true" />
+      <created>1694207276886</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694207276887</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +199,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add File" />
     <MESSAGE value="Add File D1005Sort01and2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add File D1005Sort01and2" />
+    <MESSAGE value="Add Files to Day1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Files to Day1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DSASheet$D1004KadanesAlgorithm.ic" NAME="D1004KadanesAlgorithm Coverage Results" MODIFIED="1694180511072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
