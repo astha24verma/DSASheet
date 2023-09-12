@@ -36,7 +36,7 @@ public class D2003MergeTwoSortedArraysWithoutExtraSpace {
         // Also can use Gap Method(from Shell Sort) for Optimal approach 2
 
         System.out.print(Arrays.toString(a));
-        System.out.println(" " + Arrays.toString(b));
+        System.out.println(", " + Arrays.toString(b));
 
     }
 }
